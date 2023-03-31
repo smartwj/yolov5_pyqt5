@@ -1,0 +1,2 @@
+# yolov5_pyqt5
+基于yolov5的pyqt5目标检测图形上位机工具
